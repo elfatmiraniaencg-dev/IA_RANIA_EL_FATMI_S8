@@ -1,6 +1,6 @@
 # 📊 Projet : Algorithmes de Prédiction Supervisée avec Scikit‑Learn
 
-## Auteur
+## Auteur : RANIA EL FATMI
 
 Projet réalisé dans le cadre d'un TP d'introduction au **Machine Learning**.
 
